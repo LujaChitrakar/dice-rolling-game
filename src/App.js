@@ -21,7 +21,6 @@ function App() {
         spin.push(Roll);
       }
       setResult(spin);
-      console.log(result);
     } else {
       console.log("error");
     }
